@@ -1,0 +1,34 @@
+_repo: Den-bergtagna-En-karlekens-tragedi_48676
+creator:
+  authors:
+  - agent_name: Lundegård, Axel
+    alias: Lundegard, Axel
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '6212'
+    url: http://www.gutenberg.org/2009/agents/6212
+    wikipedia: http://sv.wikipedia.org/wiki/Axel_Lundeg%C3%A5rd
+  - agent_name: Benedictsson, Victoria
+    aliases:
+    - Ahlgren, Ernst
+    - Benedictsson, Victoria Maria Bruzelius
+    birthdate: 1850
+    deathdate: 1888
+    gutenberg_agent_id: '6211'
+    url: http://www.gutenberg.org/2009/agents/6211
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Victoria_Benedictsson
+    - http://sv.wikipedia.org/wiki/Victoria_Benedictsson
+description: ''
+gutenberg_issued: '2015-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48676'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Den bergtagna
+
+  En kärlekens tragedi'
+url: http://www.gutenberg.org/ebooks/48676
