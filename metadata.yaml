@@ -1,4 +1,8 @@
 _repo: Den-bergtagna-En-karlekens-tragedi_48676
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48676-h/images/cover-page.jpg
 creator:
   authors:
   - agent_name: Lundegård, Axel
@@ -20,6 +24,8 @@ creator:
     - http://en.wikipedia.org/wiki/Victoria_Benedictsson
     - http://sv.wikipedia.org/wiki/Victoria_Benedictsson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48676#Den-bergtagna-En-karlekens-tragedi
 gutenberg_issued: '2015-04-10'
 gutenberg_type: Text
 identifiers:
